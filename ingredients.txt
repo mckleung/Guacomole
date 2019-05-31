@@ -2,3 +2,6 @@ Avocados
 Tomatoes
 Limes
 Onion
+Salt
+Pepper
+Cilanto
